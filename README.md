@@ -2,5 +2,5 @@
 A codecademy project focusing on html and css.
 
 ## Technoligies
-+html
-+css
++ html
++ css
