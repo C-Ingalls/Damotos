@@ -1,9 +1,11 @@
 # Dasmoto's Arts & Crafts
 A codecademy project focusing on html and css.
 
-## Table of Contents- 
-[Dasmoto's Arts & Crafts](#dasmotos-arts--crafts)
+## Table of Contents
+- [Dasmoto's Arts & Crafts](#dasmotos-arts--crafts)
   - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Spec sheet](#spec-sheet)
   - [Technoligies](#technoligies)
   - [Status](#status)
 
